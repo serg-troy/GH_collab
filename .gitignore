@@ -1,2 +1,4 @@
 .DS_store
 
+app/helloapp/migrations
+venv
